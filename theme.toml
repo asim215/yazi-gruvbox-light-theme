@@ -6,8 +6,9 @@
 
 # : Manager {{{
 
-#bg1 #ebdbb2
+# colors used:
 #bg2 #d5c4a1
+#fg #3c3836
 
 #yellow #d79921
 
@@ -52,7 +53,7 @@ separator_close = ""
 separator_style = { fg = "#d5c4a1", bg = "#d5c4a1" }
 
 # Mode
-mode_normal = { fg = "white", bg = "#d79921", bold = true }
+mode_normal = { fg = "#d79921", bg = "#3c3836", bold = true }
 mode_select = { fg = "black", bg = "lightgreen", bold = true }
 mode_unset  = { fg = "black", bg = "lightmagenta", bold = true }
 
